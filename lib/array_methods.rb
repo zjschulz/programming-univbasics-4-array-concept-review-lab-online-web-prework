@@ -1,8 +1,7 @@
 def find_element_index(array, value_to_find)
  
-  while array.idex(value_ti_find) do
-    square[counter] = numbers[counter] ** 2
-    counter += 1
+  while array.idex(value_to_find) do
+    puts array()
   end
 end
 
