@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
- counter = value_to_find
-  while array[counter] do
+ 
+  while array.idex do
     square[counter] = numbers[counter] ** 2
     counter += 1
   end
