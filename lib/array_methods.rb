@@ -1,5 +1,4 @@
 def find_element_index(array, value_to_find)
- 
   while array.index(value_to_find) do
     array.index(value_to_find) = a
     puts array[a]
