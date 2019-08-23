@@ -2,7 +2,7 @@ def find_element_index(array, value_to_find)
  
   while array.index(value_to_find) do
     array.index = a
-    puts array(a)
+    puts array[a]
   end
 end
 
