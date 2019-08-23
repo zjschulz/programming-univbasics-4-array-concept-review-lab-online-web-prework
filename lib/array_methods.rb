@@ -1,5 +1,6 @@
 def find_element_index(array, value_to_find)
-while counter < numbers.length do
+ 
+  while counter < numbers.length do
     square[counter] = numbers[counter] ** 2
     counter += 1
   end
